@@ -1,0 +1,11 @@
+En el presente folder enontramos tres codigos:
+Primero::error.cpp
+	El codigo esta con el error conocido como diamante, que es al heredar varias atributos iguales de las clases , el complador lo detecta como ambiguo
+
+Segundo::solucion_error.cpp
+	El codigo corregido, esta la solucion al primer codigo que es el ambiguo
+Tercero::tipos.cpp
+	Etse codigo presenta una gama de funcionalidades , para representar como  masomenos es que funciona los tpos de clases parra agregar atributos y caracteristicas , estas peeden ser que se den en private ,protected y public.Jugamos un poco con las funcionalidades que nos presenta cada uno y asi podemos ver como  es que son las carateristicas de cada uno . 		
+	
+	
+	
